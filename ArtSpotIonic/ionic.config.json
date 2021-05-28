@@ -1,0 +1,7 @@
+{
+  "name": "ArtSpotIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

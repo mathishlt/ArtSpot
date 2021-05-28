@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "ionic": "^4.1.2"
+  },
+  "name": "db.json",
+  "version": "1.0.0",
+  "description": "fake rest api for ionic 5",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "json-server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}

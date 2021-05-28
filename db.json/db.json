@@ -1,0 +1,31 @@
+{
+  "streetArt": [
+    {
+      "id" : "1",
+      "name" : "Chuuutt !!!",
+      "artist" : "Jef Aérosol",
+      "année": "2012",
+      "image" : "https://i.pinimg.com/originals/a4/b1/9d/a4b19d97e62fa69fe051e303842d9ba8.jpg",
+      "localisation" : "Paris",
+      "popularity" : "10"
+    },
+    {
+      "id" : "2",
+      "name" : "Kissing Policemen",
+      "artist" : "Banksy",
+      "année": "2007",
+      "image" : "https://mocomuseum.com/uploads/2018/07/Banksy-Kissing-Coppers.jpg",
+      "localisation" : "Brighton",
+      "popularity" : "8"
+    },
+    {
+      "id" : "3",
+      "name" : "ATM Attacking a Girl",
+      "artist" : "Banksy",
+      "année": "2001",
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/71qsem%2BQfRL._AC_SX679_.jpg",
+      "localisation" : "Londres",
+      "popularity" : "8"
+    }
+  ]
+}
